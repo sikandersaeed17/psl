@@ -1,7 +1,7 @@
 
 .logos {
-    background-color:background: rgb(36,137,13);
-    background: linear-gradient(45deg, rgba(36,137,13,1) 0%, rgba(28,113,14,1) 45%, rgba(20,91,14,1) 100%);;
+    background-color:background: rgb(28,113,14);
+    background: linear-gradient(300deg, rgba(28,113,14,1) 50%, rgba(36,137,13,1) 50%);;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -76,7 +76,8 @@
   }
   
   .third {
-    background-color: #195d10;
+    background-color:background: rgb(28,113,14);
+    background: linear-gradient(300deg, rgba(28,113,14,1) 55%, rgba(36,137,13,1) 55%);;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
